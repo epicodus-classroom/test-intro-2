@@ -1,0 +1,351 @@
+section: Git, HTML, and CSS
+order: 4
+repo: intro-curriculum
+directory: 1_git_html_and_css
+
+lessons:
+  - title: "Git, HTML, and CSS Objectives"
+    filename: 0a_git_html_and_css_objectives.md
+    day: weekend
+    type: lesson
+
+  - title: "Monday Schedule and Expectations"
+    filename: 1a_remote_expectations_monday.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: weekend
+    type: lesson
+
+  - title: "Dev Team Scrum"
+    filename: 1b_dev_team_standup.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: monday
+    type: lesson
+
+  - title: "Asking Coding Questions through the Help Queue"
+    filename: 0j_dyno_help_queue.md
+    repo: intro-curriculum
+    directory: 0_getting_started_with_working_remotely
+    day: monday
+    type: lesson
+
+  - title: "VS Code Live Share: Pair Practice"
+    filename: 1c_vs_code_liveshare_icebreaker.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: monday
+    type: lesson
+
+  - title: "Pair Programming and Using Discord when Practicing the Git Workflow"
+    filename: 1d_using_discord_to_pair.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: monday
+    type: lesson
+
+  - title: "PRACTICE: Git Project Setup"
+    filename: 1c_classwork_practice_git_project_setup.md
+    day: monday
+    type: exercise
+
+  - title: "PRACTICE: Tracking Changes with Git"
+    filename: 1d_classwork_practice_tracking_changes_with_git.md
+    day: monday
+    type: exercise
+
+  - title: "Git Best Practices"
+    filename: 1da_git_best_practices.md
+    day: monday
+    type: lesson
+
+  - title: "PRACTICE: GitHub Remote Repositories"
+    filename: 1e_classwork_practice_github_remote_repositories.md
+    day: monday
+    type: exercise
+
+  - title: "PRACTICE: Command Line Git"
+    filename: 1f_classwork_practice_command_line_git_and_github.md
+    day: monday
+    type: exercise
+
+  - title: "VS Code Workflow: Pair Programming In-Person or with Live Share"
+    filename: 1e_liveshare_workflow.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: monday
+    type: lesson
+
+  - title: "Hypertext Markup Language (HTML)"
+    filename: 1g_hypertext_markup_language_html.md
+    day: monday
+    type: lesson
+
+  - title: "HTML Indentation, Spacing, and Comments"
+    filename: 1h_html_indentation_and_spacing.md
+    day: monday
+    type: lesson
+
+  - title: "PRACTICE: Indentation and Spacing"
+    filename: 1i_classwork_practice_indentation_and_spacing.md
+    day: monday
+    type: exercise
+
+  - title: "HTML Block Elements: <p> Tags, Headings, List Elements, and More"
+    filename: 1j_html_block_elements.md
+    day: monday
+    type: lesson
+
+  - title: "HTML Block Elements Part 2"
+    filename: 1k_html_block_elements_part_two.md
+    day: monday
+    type: lesson
+
+  - title: "PRACTICE: Block Elements"
+    filename: 1l_classwork_practice_block_elements.md
+    day: monday
+    type: exercise
+
+  - title: "Homework: Social Identities"
+    filename: 1_social_identities.md
+    repo: dei-curriculum
+    directory: dei-lessons
+    day: monday
+    type: lesson
+
+  - title: "Tuesday Schedule and Expectations"
+    filename: 2a_remote_expectations_tuesday.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: tuesday
+    type: lesson
+
+  - title: "Commit Trailers and Github Contributions"
+    filename: 2ab_tracking_contributions_on_github.md
+    day: tuesday
+    type: lesson
+
+  - title: "HTML Inline Elements and Attributes: <strong>, <em>, <img>, <a>, and More"
+    filename: 1m_html_inline_elements.md
+    day: tuesday
+    type: lesson
+
+  - title: "PRACTICE: Inline Elements"
+    filename: 1n_classwork_practice_inline_elements.md
+    day: tuesday
+    type: exercise
+
+  - title: "CSS: Styling Text and Best Practices"
+    filename: 2b_css_styling_text.md
+    day: tuesday
+    type: lesson
+
+  - title: "Debugging HTML and CSS"
+    filename: 2c_debugging_html_and_css.md
+    day: tuesday
+    type: lesson
+
+  - title: "PRACTICE: Styling Text"
+    filename: 2d_classwork_practice_styling_text.md
+    day: tuesday
+    type: exercise
+
+  - title: "Git Branching"
+    filename: 2g_git_branching.md
+    day: tuesday
+    type: lesson
+
+  - title: "Git Merging"
+    filename: 2h_git_merging.md
+    day: tuesday
+    type: lesson
+
+  - title: "PRACTICE: Branching and Merging"
+    filename: 2i_classwork_practice_branching_and_merging.md
+    day: tuesday
+    type: exercise
+
+  - title: "Markdown"
+    filename: 1fa_markdown.md
+    day: tuesday
+    type: lesson
+
+  - title: "Writing a README"
+    filename: 1o_homework_readmes.md
+    day: tuesday
+    type: lesson
+
+  - title: "PRACTICE: Markdown by writing READMEs"
+    filename: 2a_classwork_practice_readmes.md
+    day: tuesday
+    type: exercise
+
+  - title: "GitHub Pages"
+    filename: 2e_github_pages.md
+    day: tuesday
+    type: lesson
+
+  - title: "PRACTICE: GitHub Pages"
+    filename: 2f_classwork_practice_github_pages.md
+    day: tuesday
+    type: exercise
+
+  - title: "Homework: Journaling at Epicodus"
+    filename: 0_introduction_to_journals.md
+    repo: soft-skills-and-job-prep-curriculum
+    directory: journal-prompts/1_intro/0_pre-work
+    day: tuesday
+    type: lesson
+
+  - title: "Homework: Journal #1"
+    filename: 1_week_one_journal_prompt.md
+    repo: soft-skills-and-job-prep-curriculum
+    directory: journal-prompts/1_intro/week-1
+    day: tuesday
+    type: lesson
+
+  - title: "Wednesday Schedule and Expectations"
+    filename: 3a_remote_expectations_wednesday.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: wednesday
+    type: lesson
+
+  - title: "Journal #1 Discussion"
+    filename: 1_week_one_journal_discussion_classwork.md
+    repo: soft-skills-and-job-prep-curriculum
+    directory: journal-prompts/1_intro/week-1
+    day: wednesday
+    type: lesson
+
+  - title: "Styling with Classes and Ids"
+    filename: 3a_styling_with_classes.md
+    day: wednesday
+    type: lesson
+
+  - title: "PRACTICE: Styling with Classes and Ids"
+    filename: 3b_classwork_practice_styling_with_classes.md
+    day: wednesday
+    type: exercise
+
+  - title: "HTML Divs and Spans, and CSS Sizing Units"
+    filename: 3c_divs_and_spans.md
+    day: wednesday
+    type: lesson
+
+  - title: "PRACTICE: HTML Divs and Spans, and CSS Sizing Units"
+    filename: 3d_classwork_practice_divs_and_spans.md
+    day: wednesday
+    type: exercise
+
+  - title: "Using Floats"
+    filename: 3e_using_floats.md
+    day: wednesday
+    type: lesson
+
+  - title: "PRACTICE: Using Floats"
+    filename: 3f_classwork_practice_using_floats.md
+    day: wednesday
+    type: exercise
+
+  - title: "Box Model"
+    filename: 3g_box_model.md
+    day: wednesday
+    type: lesson
+
+  - title: "PRACTICE: Box Model"
+    filename: 3h_classwork_practice_box_model.md
+    day: wednesday
+    type: exercise
+
+  - title: "Centering Elements and Images"
+    filename: 3ha_centering_elements_and_images.md
+    day: wednesday
+    type: lesson
+
+  - title: "Researching Online and Helpful Resources"
+    filename: 3hb_researching_online_and_helpful_resources.md
+    day: wednesday
+    type: lesson
+
+  - title: "Homework: Preparing for Your First Code Review"
+    filename: 4l_preparing_for_your_first_code_review.md
+    day: wednesday
+    type: lesson
+
+  - title: "Homework: Git Expectations for Independent Projects"
+    filename: 1db_git_expectations_for_independent_projs.md
+    day: wednesday
+    type: lesson
+
+  - title: "Thursday Schedule and Expectations"
+    filename: 4a_remote_expectations_thursday.md
+    repo: intro-curriculum
+    directory: 1_git_html_and_css/remote_lessons
+    day: thursday
+    type: lesson
+
+  - title: "Weekend Homework and Preparing for the Next Section"
+    filename: 4k_homework_and_preparing_for_next_section.md
+    day: thursday
+    type: lesson
+
+  - title: "Cascading"
+    filename: 3i_cascading.md
+    day: thursday
+    type: lesson
+
+  - title: "PRACTICE: Cascading"
+    filename: 3j_classwork_practice_cascading.md
+    day: thursday
+    type: exercise
+
+  - title: "Video Recap: Core CSS Concepts and Debugging"
+    filename: 3n_recap_on_core_css_concepts_and_debugging.md
+    day: thursday
+    type: lesson
+
+  - title: "CSS Media Queries and Responsive Design"
+    filename: 3l_media_queries_and_responsive_design.md
+    day: thursday
+    type: lesson
+
+  - title: "PRACTICE: CSS Media Queries and Responsive Design"
+    filename: 3m_classwork_practice_media_queries_and_responsive_design.md
+    day: thursday
+    type: exercise
+
+  - title: "Introduction to Bootstrap and Front-End Frameworks"
+    filename: 4b_introduction_to_bootstrap.md
+    day: thursday
+    type: lesson
+
+  - title: "Downloading and Installing Bootstrap"
+    filename: 4c_bootstrap_downloading_and_installing.md
+    day: thursday
+    type: lesson
+
+  - title: "Bootstrap Basic Elements"
+    filename: 4d_bootstrap_basic_elements.md
+    day: thursday
+    type: lesson
+
+  - title: "Bootstrap: Navigating Documentation"
+    filename: 4i_bootstrap_navigating_documentation.md
+    day: thursday
+    type: lesson
+
+  - title: "PRACTICE (optional): Recreate a Site with Bootstrap"
+    filename: 4j_classwork_practice_recreate_a_site_with_bootstrap.md
+    day: thursday
+    type: exercise
+
+  - title: "Optional: VS Code with HTML"
+    filename: 4m_html_with_vscode.md
+    day: thursday
+    type: lesson
+
+  - title: "Git, HTML, and CSS Independent Project"
+    filename: 5a_classwork_git_html_and_css_independent_project.md
+    day: friday
+    type: exercise

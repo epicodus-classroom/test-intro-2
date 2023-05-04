@@ -1,0 +1,15 @@
+# course layout file for use with Docusaurus
+title: Introduction to Programming
+show_weeks_and_days: true
+
+homepage:
+  repo: testing
+  filename: intro-homepage.md
+
+sections:
+  - layout-1-epicodus.yaml
+  - layout-2-remote.yaml
+  - layout-3-intro.yaml
+  - layout-4-git.yaml
+  - layout-5-browsers.yaml
+  - layout-6-looping.yaml

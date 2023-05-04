@@ -1,0 +1,77 @@
+section: "Getting Started with Intro to Programming"
+order: 3
+repo: intro-curriculum
+directory: 0_getting_started_with_intro_to_programming
+    
+lessons:
+  - title: Welcome to Intro
+    filename: 0a_welcome_to_intro.md
+    day: weekend
+    type: lesson
+
+  - title: Installation and Setup
+    filename: 0h_homework_installation_and_setup.md
+    day: weekend
+    type: lesson
+
+  - title: "Text Editor: Visual Studio Code"
+    filename: 0ab_text_editor_vscode.md
+    day: weekend
+    type: lesson
+
+  - title: Introduction to the Command Line
+    filename: 0b_introduction_to_the_command_line.md
+    day: weekend
+    type: lesson
+
+  - title: Interacting with the Command Line
+    filename: 0c_interacting_with_the_command_line.md
+    day: weekend
+    type: lesson
+
+  - title: "PRACTICE: Command Line"
+    filename: 0d_practice_command_line.md
+    day: weekend
+    type: lesson
+
+  - title: "Git and GitHub"
+    filename: 0e_git_and_github.md
+    day: weekend
+    type: lesson
+
+  - title: Git Configurations
+    filename: 0f_git_configurations.md
+    day: weekend
+    type: lesson
+
+  - title: Creating and Using a Git PAT
+    filename: 0g_creating_and_using_a_pat.md
+    day: weekend
+    type: lesson
+
+  - title: Preparing for the First Week
+    filename: 0i_preparing_for_the_first_week.md
+    day: weekend
+    type: lesson
+
+  - title: Asking For Help
+    filename: 0eb_asking_for_help.md
+    day: weekend
+    type: lesson
+
+  - title: Working with a Dev Team
+    filename: 0e_working_with_a_dev_team.md
+    day: weekend
+    type: lesson
+
+  - title: Daily Schedule for All Students
+    filename: 0ea_daily_schedule.md
+    day: weekend
+    type: lesson
+
+  - title: Student Success and Skills
+    filename: student-success-skills.md
+    repo: soft-skills-and-job-prep-curriculum
+    directory: career-services-topics
+    day: weekend
+    type: lesson

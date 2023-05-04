@@ -1,0 +1,55 @@
+section: "Getting Started with Working Remotely"
+order: 2
+repo: intro-curriculum
+directory: 0_getting_started_with_working_remotely
+
+lessons:
+  - title: "All Students Learn Remote Collaboration Tools"
+    filename: 00a_introduction_to_preparing_remote.md
+    day: weekend
+    type: lesson
+    
+  - title: "Installing Software on Your Machine"
+    filename: 0b_software_installation_instructions.md
+    day: weekend
+    type: lesson
+    
+  - title: "Installing and Using Discord"
+    filename: 0a_preparing_to_work_remote.md
+    day: weekend
+    type: lesson
+    
+  - title: "Customizing Discord"
+    filename: 0h_customizing_discord.md
+    day: weekend
+    type: lesson
+    
+  - title: "Direct Messages in Discord"
+    filename: 0ha1_messages_in_discord.md
+    day: weekend
+    type: lesson
+    
+  - title: "Installing and Using VS Code Live Share"
+    filename: 0c_using_vscode_live_share.md
+    day: weekend
+    type: lesson
+    
+  - title: "How to Pair Program Remotely"
+    filename: 0d_pairing_remotely.md
+    day: weekend
+    type: lesson
+    
+  - title: "Remote Pairing Etiquette"
+    filename: 0da_pairing_etiquette.md
+    day: weekend
+    type: lesson
+    
+  - title: "Troubleshooting Remote Issues"
+    filename: 0g_troubleshooting_remote_issues.md
+    day: weekend
+    type: lesson
+    
+  - title: "Accommodations for Remote Learning"
+    filename: 0i_accommodations_for_remote_learning.md
+    day: weekend
+    type: lesson
