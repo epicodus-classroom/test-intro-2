@@ -8,7 +8,7 @@ We use [Google Chrome](https://www.google.com/chrome/browser/) at Epicodus so we
 
 In Chrome, click on the menu button. It's on the right side of the address bar and looks like ☰ in older versions of Chrome or three vertical dots in newer versions. Click _More Tools_ and then click _Developer Tools_.
 
-![GIF shows opening menu and clicking on Developer Tools.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/INTRO/week1-html-css/Week-1-2020-images/open-dev-tools-2.gif)
+![GIF shows opening menu and clicking on Developer Tools.](/images/test-intro/INTRO/week1-html-css/Week-1-2020-images/open-dev-tools-2.gif)
 
 As a shortcut, you can also press `Cmd + Option + J` ( `Windows + Alt + J` on Epicodus keyboards) to open DevTools.
 
