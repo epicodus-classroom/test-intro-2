@@ -4,7 +4,7 @@ show_weeks_and_days: true
 
 homepage:
   repo: testing
-  filename: intro-homepage.md
+  filename: test-intro-2-homepage.md
 
 sections:
   - layout-1-epicodus.yaml
